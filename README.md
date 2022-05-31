@@ -1,8 +1,15 @@
 # Website Name
 GADGET MANIA
 # Live site link
-go for [live](https://gadget-mania-by-jubayer.netlify.app/).
+Go for [live](https://gadget-mania-by-jubayer.netlify.app/)
 
+# some bullet point
+* install react on my computer and create a folder named Gadget mania as my site name.
+* use component in small parts and use them.
+* push code when done a simple part.
+* edit readme file.
+* try to learn bullet point and etc.
+## Thank you
 
 # Getting Started with Create React App
 
