@@ -1,0 +1,19 @@
+.blogs-body{
+    text-align: center;
+    background-color: rgb(77, 48, 10);
+    color: rgb(247, 235, 235);
+    height: 1000px;
+}
+.query{
+    padding-top: 30px;
+}
+h2:hover{
+    color: royalblue;
+}
+.answer{
+    font-weight: bold;
+    color: rgb(74, 110, 231);
+}
+.answer:hover{
+    color: red;
+}

@@ -1,0 +1,24 @@
+ .all-reviews{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+    margin: 10px 100px;
+}
+.reviews-header{
+    text-align: center;
+}
+@media screen and (max-width:1100px) {
+    .all-reviews{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media only screen and ( max-width : 600px ) { 
+    .shop-container { 
+    grid-template-columns : 1fr 1fr ; 
+    } 
+    .all-reviews { 
+    display: flex ; 
+    flex-direction: column ;
+    }
+} 
+    
